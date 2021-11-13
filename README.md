@@ -2,6 +2,6 @@
 ## belajar git hub 
 
 ### membuat akun git hub
-mahasiswa harus memiliki akun git hub '<p>' 
+mahasiswa harus memiliki akun git hub '<p>'
 ini ada lah contohnya 
-![img]screenshot/ss1 
+![gambar 1](screenshot/ss1.png)
