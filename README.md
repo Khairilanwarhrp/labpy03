@@ -4,4 +4,4 @@
 ### membuat akun git hub
 mahasiswa harus memiliki akun git hub '<p>'
 ini ada lah contohnya 
-![gambar 1](screenshot/ss1.png)
+![gambar 1](screenshot/ss1)
